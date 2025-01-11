@@ -1,0 +1,2 @@
+Szeretek Budapesten élni, mert a városban sok szép híd vannak, és csendes folyója van. Szintén, mert lehet biciklivel közlekedni.  Budapesten biciklivel a egyetem megyek. De nem szeretem Budapestet, mert piszkos. Nagyon sok hajléktalan van itt. Budapesten nem csendes, de zajos.
+![[WhatsApp Image 2023-05-04 at 09.15.52.jpeg]]

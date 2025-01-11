@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "textFontFamily": "Consolas",
+  "enabledCssSnippets": [
+    "snipets"
+  ],
+  "theme": "obsidian",
+  "cssTheme": "Atom",
+  "baseFontSize": 16
+}

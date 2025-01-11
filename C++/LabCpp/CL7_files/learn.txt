@@ -1,0 +1,25 @@
+1.//clear deltes all the things int the class
+Vector::clear(){
+    delete[] pData;
+    pData=NULL;
+    elementNum =0;
+}
+
+2.He puts the global operatros inside private members
+
+3.Dont forget that elementNum was unsigned int
+
+4. You need to check that elementNum is not 0. If it si 
+pData should point to NULL;
+
+5. It knows that it can only call the const function
+const Vector& Vector::operator[](unsigned int position) const{
+    return at(position);
+}
+
+6. Don't delete the null pointer;
+
+7.input output is const but the vector with the fucntion is changing
+const Vector& Vector::operator=(const Vector& theOther)
+
+8.Be careful with elementNum+1 or position index.

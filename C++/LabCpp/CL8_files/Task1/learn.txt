@@ -1,0 +1,7 @@
+1. You need to include what you use in that file h or cpp
+2. When you call the contructor for a derived class you inicialize 
+the inherited values with the constructor of the parent because the 
+values are private.
+3. The only way to use the pivat members of the base class is to use
+getAtribute or friend class
+4. Don't forget the return type of the virtual functions

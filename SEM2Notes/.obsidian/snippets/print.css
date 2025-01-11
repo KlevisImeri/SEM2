@@ -1,0 +1,64 @@
+@media print {
+  /* :root{
+    background-color: var(--background-primary) !important;
+  }
+
+  html, body {
+  background-color: var(--background-primary) !important;
+  color: var(--text-normal) !important;
+  }
+  
+  a {
+  color: var(--text-accent) !important;
+  } */
+  
+  /* pre, code {
+  background-color: var(--background-secondary) !important;
+  color: var(--text-normal) !important;
+  } */
+  
+  h1, h2, h3, h4, h5, h6 {
+  color: var(--text-normal) !important;
+  }
+  
+  /* blockquote {
+  color: var(--text-muted) !important;
+  }
+  
+  hr {
+  background-color: var(--text-muted) !important;
+  }
+   */
+  /* .markdown-preview-view img {
+  filter: invert(1) !important;
+  }
+  
+  .markdown-preview-view table {
+  color: var(--text-normal) !important;
+  border-color: var(--background-secondary) !important;
+  }
+  
+  .markdown-preview-view td, .markdown-preview-view th {
+  border-color: var(--background-secondary) !important;
+  }
+  
+  .markdown-preview-view thead {
+  background-color: var(--background-secondary) !important;
+  color: var(--text-normal) !important;
+  } */
+  
+  /* .markdown-preview-view pre code {
+  background-color: var(--background-primary) !important;
+  color: var(--text-normal) !important;
+  }
+  
+  .markdown-preview-view pre {
+  background-color: var(--background-secondary) !important;
+  color: var(--text-normal) !important;
+  }
+  
+  .markdown-preview-view code {
+  background-color: var(--background-secondary) !important;
+  color: var(--text-normal) !important;
+  } */
+}
